@@ -15,3 +15,4 @@ Enum - Enum is an user defined data type in SQL, which helps to restrict the val
 In this example, the column low_fats and recyclable columns can have a possiblity of 'Y' or 'N' in it and nothing else.
 
 Write a solution to find the ids of products that are both low fat and recyclable.
+Arrange the output in the ascending order of product_id
